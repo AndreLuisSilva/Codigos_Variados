@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\bin\Debug\GraficoPizza.exe.config
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\bin\Debug\GraficoPizza.exe
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\bin\Debug\GraficoPizza.pdb
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\bin\Debug\GraficoPizza.xml
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.vbprojAssemblyReference.cache
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.Form1.resources
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.Resources.resources
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.vbproj.GenerateResource.cache
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.vbproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.exe
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.xml
+C:\Users\andre\source\repos\GraficoPizza\GraficoPizza\obj\Debug\GraficoPizza.pdb
