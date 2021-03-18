@@ -2,6 +2,7 @@
 
 Public Class Form1
     Private Sub btn_gerar_Click(sender As Object, e As EventArgs) Handles btn_gerar.Click
+        chart_pizza.Series.Clear()
         gerarGraficoPizza()
     End Sub
 
